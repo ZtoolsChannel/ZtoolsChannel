@@ -2,7 +2,7 @@
 - 👀 I’m interested in ISPF Tools on z/OS
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on ISPF Tools Development
-- 📫 How to reach me: ztools.channel@gmail 
+- 📫 How to reach me: ztools.channel@gmail.com 
 
 <!---
 ZtoolsChannel/ZtoolsChannel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
