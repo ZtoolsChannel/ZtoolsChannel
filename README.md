@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZtoolsChannel
+- 👋 Hi, I’m @ZtoolsChannel (aka Dan Dirkse)
 - 👀 I’m interested in ISPF Tools on z/OS
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on ISPF Tools Development
